@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GDEF>
+    <Version value="1.0"/>
+    <GlyphClassDef Format="2">
+      <ClassDef glyph=".notdef" class="1"/>
+      <ClassDef glyph="CR" class="1"/>
+      <ClassDef glyph="NULL" class="1"/>
+      <ClassDef glyph="space" class="1"/>
+      <ClassDef glyph="u0E81" class="1"/>
+      <ClassDef glyph="u0E82" class="1"/>
+      <ClassDef glyph="u0E84" class="1"/>
+      <ClassDef glyph="u0E87" class="1"/>
+      <ClassDef glyph="u0E88" class="1"/>
+      <ClassDef glyph="u0E8A" class="1"/>
+      <ClassDef glyph="u0E8D" class="1"/>
+      <ClassDef glyph="u0E94" class="1"/>
+      <ClassDef glyph="u0E95" class="1"/>
+      <ClassDef glyph="u0E96" class="1"/>
+      <ClassDef glyph="u0E97" class="1"/>
+      <ClassDef glyph="u0E99" class="1"/>
+      <ClassDef glyph="u0E9A" class="1"/>
+      <ClassDef glyph="u0E9B" class="1"/>
+      <ClassDef glyph="u0E9C" class="1"/>
+      <ClassDef glyph="u0E9D" class="1"/>
+      <ClassDef glyph="u0E9E" class="1"/>
+      <ClassDef glyph="u0E9F" class="1"/>
+      <ClassDef glyph="u0EA1" class="1"/>
+      <ClassDef glyph="u0EA2" class="1"/>
+      <ClassDef glyph="u0EA3" class="1"/>
+      <ClassDef glyph="u0EA5" class="1"/>
+      <ClassDef glyph="u0EA7" class="1"/>
+      <ClassDef glyph="u0EAA" class="1"/>
+      <ClassDef glyph="u0EAB" class="1"/>
+      <ClassDef glyph="u0EAD" class="1"/>
+      <ClassDef glyph="u0EAE" class="1"/>
+      <ClassDef glyph="u0EAF" class="1"/>
+      <ClassDef glyph="u0EB0" class="1"/>
+      <ClassDef glyph="u0EB1" class="1"/>
+      <ClassDef glyph="u0EB2" class="1"/>
+      <ClassDef glyph="u0EB3" class="1"/>
+      <ClassDef glyph="u0EB4" class="1"/>
+      <ClassDef glyph="u0EB5" class="1"/>
+      <ClassDef glyph="u0EB6" class="1"/>
+      <ClassDef glyph="u0EB7" class="1"/>
+      <ClassDef glyph="u0EB8" class="1"/>
+      <ClassDef glyph="u0EB9" class="1"/>
+      <ClassDef glyph="u0EBB" class="1"/>
+      <ClassDef glyph="u0EBC" class="1"/>
+      <ClassDef glyph="u0EBD" class="1"/>
+      <ClassDef glyph="u0EC0" class="1"/>
+      <ClassDef glyph="u0EC1" class="1"/>
+      <ClassDef glyph="u0EC2" class="1"/>
+      <ClassDef glyph="u0EC3" class="1"/>
+      <ClassDef glyph="u0EC4" class="1"/>
+      <ClassDef glyph="u0EC6" class="1"/>
+      <ClassDef glyph="u0EC8" class="1"/>
+      <ClassDef glyph="u0EC8.b" class="1"/>
+      <ClassDef glyph="u0EC9" class="1"/>
+      <ClassDef glyph="u0EC9.b" class="1"/>
+      <ClassDef glyph="u0ECA" class="1"/>
+      <ClassDef glyph="u0ECA.b" class="1"/>
+      <ClassDef glyph="u0ECB" class="1"/>
+      <ClassDef glyph="u0ECB.b" class="1"/>
+      <ClassDef glyph="u0ECC" class="1"/>
+      <ClassDef glyph="u0ECC.b" class="1"/>
+      <ClassDef glyph="u0ECD" class="1"/>
+      <ClassDef glyph="u0ED0" class="1"/>
+      <ClassDef glyph="u0ED1" class="1"/>
+      <ClassDef glyph="u0ED2" class="1"/>
+      <ClassDef glyph="u0ED3" class="1"/>
+      <ClassDef glyph="u0ED4" class="1"/>
+      <ClassDef glyph="u0ED5" class="1"/>
+      <ClassDef glyph="u0ED6" class="1"/>
+      <ClassDef glyph="u0ED7" class="1"/>
+      <ClassDef glyph="u0ED8" class="1"/>
+      <ClassDef glyph="u0ED9" class="1"/>
+      <ClassDef glyph="u0EDC" class="1"/>
+      <ClassDef glyph="u0EDD" class="1"/>
+      <ClassDef glyph="u0EDE" class="1"/>
+      <ClassDef glyph="u0EDF" class="1"/>
+    </GlyphClassDef>
+    <LigCaretList>
+      <Coverage Format="2">
+      </Coverage>
+      <!-- LigGlyphCount=0 -->
+    </LigCaretList>
+  </GDEF>
+
+</ttFont>

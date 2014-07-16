@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-75"/>
+    <underlineThickness value="50"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name="NULL"/>
+      <psName name="CR"/>
+      <psName name="u0E81"/>
+      <psName name="u0E82"/>
+      <psName name="u0E84"/>
+      <psName name="u0E87"/>
+      <psName name="u0E88"/>
+      <psName name="u0E8A"/>
+      <psName name="u0E8D"/>
+      <psName name="u0E94"/>
+      <psName name="u0E95"/>
+      <psName name="u0E96"/>
+      <psName name="u0E97"/>
+      <psName name="u0E99"/>
+      <psName name="u0E9A"/>
+      <psName name="u0E9B"/>
+      <psName name="u0E9C"/>
+      <psName name="u0E9D"/>
+      <psName name="u0E9E"/>
+      <psName name="u0E9F"/>
+      <psName name="u0EA1"/>
+      <psName name="u0EA2"/>
+      <psName name="u0EA3"/>
+      <psName name="u0EA5"/>
+      <psName name="u0EA7"/>
+      <psName name="u0EAA"/>
+      <psName name="u0EAB"/>
+      <psName name="u0EAD"/>
+      <psName name="u0EAE"/>
+      <psName name="u0EAF"/>
+      <psName name="u0EB0"/>
+      <psName name="u0EB1"/>
+      <psName name="u0EB2"/>
+      <psName name="u0EB3"/>
+      <psName name="u0EB4"/>
+      <psName name="u0EB5"/>
+      <psName name="u0EB6"/>
+      <psName name="u0EB7"/>
+      <psName name="u0EB8"/>
+      <psName name="u0EB9"/>
+      <psName name="u0EBB"/>
+      <psName name="u0EBC"/>
+      <psName name="u0EBD"/>
+      <psName name="u0EC0"/>
+      <psName name="u0EC1"/>
+      <psName name="u0EC2"/>
+      <psName name="u0EC3"/>
+      <psName name="u0EC4"/>
+      <psName name="u0EC6"/>
+      <psName name="u0EC8"/>
+      <psName name="u0EC9"/>
+      <psName name="u0ECA"/>
+      <psName name="u0ECB"/>
+      <psName name="u0ECC"/>
+      <psName name="u0ECD"/>
+      <psName name="u0ED0"/>
+      <psName name="u0ED1"/>
+      <psName name="u0ED2"/>
+      <psName name="u0ED3"/>
+      <psName name="u0ED4"/>
+      <psName name="u0ED5"/>
+      <psName name="u0ED6"/>
+      <psName name="u0ED7"/>
+      <psName name="u0ED8"/>
+      <psName name="u0ED9"/>
+      <psName name="u0EDC"/>
+      <psName name="u0EDD"/>
+      <psName name="u0EDE"/>
+      <psName name="u0EDF"/>
+      <psName name="u0EC8.b"/>
+      <psName name="u0EC9.b"/>
+      <psName name="u0ECA.b"/>
+      <psName name="u0ECB.b"/>
+      <psName name="u0ECC.b"/>
+    </extraNames>
+  </post>
+
+</ttFont>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="NULL"/><!-- &lt;control> -->
+      <map code="0xd" name="CR"/><!-- &lt;control> -->
+      <map code="0x20" name="space"/><!-- SPACE -->
+      <map code="0xe81" name="u0E81"/><!-- LAO LETTER KO -->
+      <map code="0xe82" name="u0E82"/><!-- LAO LETTER KHO SUNG -->
+      <map code="0xe84" name="u0E84"/><!-- LAO LETTER KHO TAM -->
+      <map code="0xe87" name="u0E87"/><!-- LAO LETTER NGO -->
+      <map code="0xe88" name="u0E88"/><!-- LAO LETTER CO -->
+      <map code="0xe8a" name="u0E8A"/><!-- LAO LETTER SO TAM -->
+      <map code="0xe8d" name="u0E8D"/><!-- LAO LETTER NYO -->
+      <map code="0xe94" name="u0E94"/><!-- LAO LETTER DO -->
+      <map code="0xe95" name="u0E95"/><!-- LAO LETTER TO -->
+      <map code="0xe96" name="u0E96"/><!-- LAO LETTER THO SUNG -->
+      <map code="0xe97" name="u0E97"/><!-- LAO LETTER THO TAM -->
+      <map code="0xe99" name="u0E99"/><!-- LAO LETTER NO -->
+      <map code="0xe9a" name="u0E9A"/><!-- LAO LETTER BO -->
+      <map code="0xe9b" name="u0E9B"/><!-- LAO LETTER PO -->
+      <map code="0xe9c" name="u0E9C"/><!-- LAO LETTER PHO SUNG -->
+      <map code="0xe9d" name="u0E9D"/><!-- LAO LETTER FO TAM -->
+      <map code="0xe9e" name="u0E9E"/><!-- LAO LETTER PHO TAM -->
+      <map code="0xe9f" name="u0E9F"/><!-- LAO LETTER FO SUNG -->
+      <map code="0xea1" name="u0EA1"/><!-- LAO LETTER MO -->
+      <map code="0xea2" name="u0EA2"/><!-- LAO LETTER YO -->
+      <map code="0xea3" name="u0EA3"/><!-- LAO LETTER LO LING -->
+      <map code="0xea5" name="u0EA5"/><!-- LAO LETTER LO LOOT -->
+      <map code="0xea7" name="u0EA7"/><!-- LAO LETTER WO -->
+      <map code="0xeaa" name="u0EAA"/><!-- LAO LETTER SO SUNG -->
+      <map code="0xeab" name="u0EAB"/><!-- LAO LETTER HO SUNG -->
+      <map code="0xead" name="u0EAD"/><!-- LAO LETTER O -->
+      <map code="0xeae" name="u0EAE"/><!-- LAO LETTER HO TAM -->
+      <map code="0xeaf" name="u0EAF"/><!-- LAO ELLIPSIS -->
+      <map code="0xeb0" name="u0EB0"/><!-- LAO VOWEL SIGN A -->
+      <map code="0xeb1" name="u0EB1"/><!-- LAO VOWEL SIGN MAI KAN -->
+      <map code="0xeb2" name="u0EB2"/><!-- LAO VOWEL SIGN AA -->
+      <map code="0xeb3" name="u0EB3"/><!-- LAO VOWEL SIGN AM -->
+      <map code="0xeb4" name="u0EB4"/><!-- LAO VOWEL SIGN I -->
+      <map code="0xeb5" name="u0EB5"/><!-- LAO VOWEL SIGN II -->
+      <map code="0xeb6" name="u0EB6"/><!-- LAO VOWEL SIGN Y -->
+      <map code="0xeb7" name="u0EB7"/><!-- LAO VOWEL SIGN YY -->
+      <map code="0xeb8" name="u0EB8"/><!-- LAO VOWEL SIGN U -->
+      <map code="0xeb9" name="u0EB9"/><!-- LAO VOWEL SIGN UU -->
+      <map code="0xebb" name="u0EBB"/><!-- LAO VOWEL SIGN MAI KON -->
+      <map code="0xebc" name="u0EBC"/><!-- LAO SEMIVOWEL SIGN LO -->
+      <map code="0xebd" name="u0EBD"/><!-- LAO SEMIVOWEL SIGN NYO -->
+      <map code="0xec0" name="u0EC0"/><!-- LAO VOWEL SIGN E -->
+      <map code="0xec1" name="u0EC1"/><!-- LAO VOWEL SIGN EI -->
+      <map code="0xec2" name="u0EC2"/><!-- LAO VOWEL SIGN O -->
+      <map code="0xec3" name="u0EC3"/><!-- LAO VOWEL SIGN AY -->
+      <map code="0xec4" name="u0EC4"/><!-- LAO VOWEL SIGN AI -->
+      <map code="0xec6" name="u0EC6"/><!-- LAO KO LA -->
+      <map code="0xec8" name="u0EC8"/><!-- LAO TONE MAI EK -->
+      <map code="0xec9" name="u0EC9"/><!-- LAO TONE MAI THO -->
+      <map code="0xeca" name="u0ECA"/><!-- LAO TONE MAI TI -->
+      <map code="0xecb" name="u0ECB"/><!-- LAO TONE MAI CATAWA -->
+      <map code="0xecc" name="u0ECC"/><!-- LAO CANCELLATION MARK -->
+      <map code="0xecd" name="u0ECD"/><!-- LAO NIGGAHITA -->
+      <map code="0xed0" name="u0ED0"/><!-- LAO DIGIT ZERO -->
+      <map code="0xed1" name="u0ED1"/><!-- LAO DIGIT ONE -->
+      <map code="0xed2" name="u0ED2"/><!-- LAO DIGIT TWO -->
+      <map code="0xed3" name="u0ED3"/><!-- LAO DIGIT THREE -->
+      <map code="0xed4" name="u0ED4"/><!-- LAO DIGIT FOUR -->
+      <map code="0xed5" name="u0ED5"/><!-- LAO DIGIT FIVE -->
+      <map code="0xed6" name="u0ED6"/><!-- LAO DIGIT SIX -->
+      <map code="0xed7" name="u0ED7"/><!-- LAO DIGIT SEVEN -->
+      <map code="0xed8" name="u0ED8"/><!-- LAO DIGIT EIGHT -->
+      <map code="0xed9" name="u0ED9"/><!-- LAO DIGIT NINE -->
+      <map code="0xedc" name="u0EDC"/><!-- LAO HO NO -->
+      <map code="0xedd" name="u0EDD"/><!-- LAO HO MO -->
+      <map code="0xede" name="u0EDE"/><!-- ???? -->
+      <map code="0xedf" name="u0EDF"/><!-- ???? -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <hmtx>
+    <mtx name=".notdef" width="653" lsb="89"/>
+    <mtx name="CR" width="202" lsb="0"/>
+    <mtx name="NULL" width="0" lsb="0"/>
+    <mtx name="space" width="202" lsb="0"/>
+    <mtx name="u0E81" width="625" lsb="40"/>
+    <mtx name="u0E82" width="611" lsb="75"/>
+    <mtx name="u0E84" width="611" lsb="75"/>
+    <mtx name="u0E87" width="496" lsb="40"/>
+    <mtx name="u0E88" width="576" lsb="40"/>
+    <mtx name="u0E8A" width="611" lsb="75"/>
+    <mtx name="u0E8D" width="611" lsb="75"/>
+    <mtx name="u0E94" width="611" lsb="75"/>
+    <mtx name="u0E95" width="611" lsb="75"/>
+    <mtx name="u0E96" width="625" lsb="40"/>
+    <mtx name="u0E97" width="750" lsb="60"/>
+    <mtx name="u0E99" width="625" lsb="40"/>
+    <mtx name="u0E9A" width="611" lsb="60"/>
+    <mtx name="u0E9B" width="611" lsb="60"/>
+    <mtx name="u0E9C" width="611" lsb="75"/>
+    <mtx name="u0E9D" width="611" lsb="75"/>
+    <mtx name="u0E9E" width="750" lsb="60"/>
+    <mtx name="u0E9F" width="750" lsb="60"/>
+    <mtx name="u0EA1" width="625" lsb="40"/>
+    <mtx name="u0EA2" width="611" lsb="75"/>
+    <mtx name="u0EA3" width="611" lsb="75"/>
+    <mtx name="u0EA5" width="611" lsb="75"/>
+    <mtx name="u0EA7" width="611" lsb="75"/>
+    <mtx name="u0EAA" width="611" lsb="75"/>
+    <mtx name="u0EAB" width="750" lsb="60"/>
+    <mtx name="u0EAD" width="611" lsb="75"/>
+    <mtx name="u0EAE" width="611" lsb="75"/>
+    <mtx name="u0EAF" width="688" lsb="75"/>
+    <mtx name="u0EB0" width="611" lsb="75"/>
+    <mtx name="u0EB1" width="0" lsb="-451"/>
+    <mtx name="u0EB2" width="496" lsb="40"/>
+    <mtx name="u0EB3" width="496" lsb="-36"/>
+    <mtx name="u0EB4" width="2" lsb="-475"/>
+    <mtx name="u0EB5" width="2" lsb="-475"/>
+    <mtx name="u0EB6" width="2" lsb="-475"/>
+    <mtx name="u0EB7" width="2" lsb="-475"/>
+    <mtx name="u0EB8" width="0" lsb="-258"/>
+    <mtx name="u0EB9" width="0" lsb="-386"/>
+    <mtx name="u0EBB" width="0" lsb="-451"/>
+    <mtx name="u0EBC" width="0" lsb="-524"/>
+    <mtx name="u0EBD" width="340" lsb="-151"/>
+    <mtx name="u0EC0" width="322" lsb="75"/>
+    <mtx name="u0EC1" width="582" lsb="75"/>
+    <mtx name="u0EC2" width="322" lsb="-31"/>
+    <mtx name="u0EC3" width="322" lsb="-37"/>
+    <mtx name="u0EC4" width="322" lsb="-100"/>
+    <mtx name="u0EC6" width="610" lsb="40"/>
+    <mtx name="u0EC8" width="2" lsb="-308"/>
+    <mtx name="u0EC8.b" width="2" lsb="-308"/>
+    <mtx name="u0EC9" width="2" lsb="-370"/>
+    <mtx name="u0EC9.b" width="2" lsb="-425"/>
+    <mtx name="u0ECA" width="2" lsb="-399"/>
+    <mtx name="u0ECA.b" width="2" lsb="-475"/>
+    <mtx name="u0ECB" width="2" lsb="-379"/>
+    <mtx name="u0ECB.b" width="2" lsb="-386"/>
+    <mtx name="u0ECC" width="1" lsb="-354"/>
+    <mtx name="u0ECC.b" width="1" lsb="-354"/>
+    <mtx name="u0ECD" width="2" lsb="-375"/>
+    <mtx name="u0ED0" width="611" lsb="75"/>
+    <mtx name="u0ED1" width="608" lsb="75"/>
+    <mtx name="u0ED2" width="611" lsb="75"/>
+    <mtx name="u0ED3" width="625" lsb="40"/>
+    <mtx name="u0ED4" width="591" lsb="75"/>
+    <mtx name="u0ED5" width="639" lsb="75"/>
+    <mtx name="u0ED6" width="611" lsb="75"/>
+    <mtx name="u0ED7" width="625" lsb="40"/>
+    <mtx name="u0ED8" width="615" lsb="75"/>
+    <mtx name="u0ED9" width="750" lsb="75"/>
+    <mtx name="u0EDC" width="959" lsb="60"/>
+    <mtx name="u0EDD" width="959" lsb="60"/>
+    <mtx name="u0EDE" width="625" lsb="40"/>
+    <mtx name="u0EDF" width="611" lsb="75"/>
+  </hmtx>
+
+</ttFont>

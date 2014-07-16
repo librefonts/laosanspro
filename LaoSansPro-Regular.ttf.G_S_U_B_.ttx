@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GSUB>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=1 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="lao "/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=2 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="1"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=2 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="clig"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=2 -->
+      <Lookup index="0">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=2 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="2">
+            <Glyph value="u0E81"/>
+            <Glyph value="u0E82"/>
+            <Glyph value="u0E84"/>
+            <Glyph value="u0E87"/>
+            <Glyph value="u0E88"/>
+            <Glyph value="u0E8A"/>
+            <Glyph value="u0E8D"/>
+            <Glyph value="u0E94"/>
+            <Glyph value="u0E95"/>
+            <Glyph value="u0E96"/>
+            <Glyph value="u0E97"/>
+            <Glyph value="u0E99"/>
+            <Glyph value="u0E9A"/>
+            <Glyph value="u0E9B"/>
+            <Glyph value="u0E9C"/>
+            <Glyph value="u0E9D"/>
+            <Glyph value="u0E9E"/>
+            <Glyph value="u0E9F"/>
+            <Glyph value="u0EA1"/>
+            <Glyph value="u0EA2"/>
+            <Glyph value="u0EA3"/>
+            <Glyph value="u0EA5"/>
+            <Glyph value="u0EA7"/>
+            <Glyph value="u0EAA"/>
+            <Glyph value="u0EAB"/>
+            <Glyph value="u0EAD"/>
+            <Glyph value="u0EAE"/>
+            <Glyph value="u0EDC"/>
+            <Glyph value="u0EDD"/>
+            <Glyph value="u0EDE"/>
+            <Glyph value="u0EDF"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="2">
+            <Glyph value="u0EC8"/>
+            <Glyph value="u0EC9"/>
+            <Glyph value="u0ECA"/>
+            <Glyph value="u0ECB"/>
+            <Glyph value="u0ECC"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="1"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="1" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="2">
+            <Glyph value="u0EB8"/>
+            <Glyph value="u0EB9"/>
+            <Glyph value="u0EBC"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="2">
+            <Glyph value="u0EC8"/>
+            <Glyph value="u0EC9"/>
+            <Glyph value="u0ECA"/>
+            <Glyph value="u0ECB"/>
+            <Glyph value="u0ECC"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="1"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="u0EC8" out="u0EC8.b"/>
+          <Substitution in="u0EC9" out="u0EC9.b"/>
+          <Substitution in="u0ECA" out="u0ECA.b"/>
+          <Substitution in="u0ECB" out="u0ECB.b"/>
+          <Substitution in="u0ECC" out="u0ECC.b"/>
+        </SingleSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>

@@ -1,0 +1,24 @@
+{
+  "name": "Lao Sans Pro",
+  "designer": "Multiple Designers",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 7652,
+  "fonts": [
+    {
+      "name": "Lao Sans Pro",
+      "style": "normal",
+      "weight": 400,
+      "filename": "LaoSansPro-Regular.ttf",
+      "postScriptName": "LaoSansPro",
+      "fullName": "Lao Sans Pro",
+      "copyright": "Copyright 2010, 2012 Adobe Systems Incorporated. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}

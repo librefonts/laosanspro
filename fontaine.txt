@@ -1,0 +1,24 @@
+Fonts
+  Font:
+    Common name: Lao Sans Pro
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright 2010, 2012 Adobe Systems Incorporated. All Rights Reserved.
+    Version: Version 1.0 September 24, 2013
+    Glyph count: 76
+    Character count: 70
+    Orthographies:
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 11
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: fragmentary
+          Percent coverage: 10
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 7
